@@ -203,10 +203,3 @@ Optional: use `flutter pub outdated` to check for dependency updates.
 Add a `LICENSE` file to the repo root for your preferred license (MIT recommended for open-source projects).
 
 ---
-
-If you’d like I can also:
-- Add `flutter_dotenv` migration to remove `app_keys.dart` and add `app_keys.example.dart` and `.env.example`.
-- Add a default `LICENSE` (MIT) and a `CONTRIBUTING.md`.
-- Replace `assets/icons/app_icon.png` with a generated logo placeholder and run `flutter_launcher_icons` so icons are committed.
-
-Let me know next steps to implement.
